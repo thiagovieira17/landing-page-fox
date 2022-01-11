@@ -1,4 +1,5 @@
 # landing-page-fox
  
- <a href=" https://thiagovieira17.github.io/landing-page-fox/">Primeira landing page</a> <3
+ Primeira landing page <3
  
+https://thiagovieira17.github.io/landing-page-fox/
