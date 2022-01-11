@@ -47,8 +47,17 @@ a:visited, a:active {
     font-size: 18px;
 }
 
+.cabecalho-menu-item {
+    text-shadow: 4px 3px 8px rgba(0, 0, 0, 0.425);
+}
+
+.cabecalho-menu-item:hover {
+    color: #585858;
+}
+
 .conteudo {
     margin-bottom: 48px;
+    margin: 0px 10px 0px 10px;
     border-top: 0.4px solid var(--cor5);
 }
 
@@ -62,6 +71,7 @@ a:visited, a:active {
     display: flex;
     flex-direction: column;
     gap: 32px;
+    text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.233);
 }
 
 .conteudo-principal-escrito-titulo {
@@ -90,6 +100,9 @@ button {
     font-size: 20px;
     color: var(--cor2);
 }
+button:hover {
+    background-color: #585858;
+}
 
 .conteudo-principal-imagem {
     height: 350px;
@@ -112,6 +125,7 @@ button {
     font-size: 24px;
     color: var(--cor2);
     margin-bottom: 16px;
+    text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.233);
 }
 
 .conteudo-secundario-paragrafo {
@@ -124,7 +138,8 @@ button {
 .rodape {
     border-top: 0.4px solid var(--cor5);
     padding-top: 48px;
-    padding: 40px;
+    padding: 20px;
+    margin: 0px 10px 0px 10px;
     text-align: center;
 }
 
@@ -133,4 +148,5 @@ button {
     font-weight: 200;
     font-size: 14px;
     color: var(--cor1);
+    text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.233);
 }
