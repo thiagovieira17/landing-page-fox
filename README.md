@@ -4,4 +4,4 @@
  
 https://thiagovieira17.github.io/landing-page-fox/
 
-![image](https://user-images.githubusercontent.com/90724851/149054575-83371bd9-2aab-4959-b802-c9c11c43a8fb.png)
+![image](https://user-images.githubusercontent.com/90724851/149210664-b7dd7577-7a7c-469b-a261-3142a8b9c81b.png)
